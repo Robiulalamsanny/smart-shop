@@ -1,1 +1,1 @@
-# smart-shop
+# laravelsmartshop
